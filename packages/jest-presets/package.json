@@ -21,7 +21,7 @@
 		"jest-axe": "~10.0.0",
 		"jest-environment-jsdom": "~30.0.2",
 		"jest-environment-node": "~30.0.2",
-		"uuid": "~11.0.5"
+		"uuid": "~14.0.0"
 	},
 	"devDependencies": {
 		"@rocket.chat/eslint-config": "workspace:~",
